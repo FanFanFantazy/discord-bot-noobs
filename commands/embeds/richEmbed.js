@@ -1,12 +1,13 @@
 const commando = require('discord.js-commando');
 const Discord = require('discord.js');
+// define local image file
 const attachment = new Discord.Attachment('./logo.jpg', 'logo.jpg');
 
 class RichembedCommand extends commando.Command {
   constructor(client) {
     super(client, {
       name: 'richembed',
-      group: 'games',
+      group: 'embeds',
       memberName: 'richembed',
       description: 'richembed message'
     });

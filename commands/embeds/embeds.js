@@ -3,7 +3,7 @@ class EmbedsCommand extends commando.Command {
   constructor(client) {
     super(client, {
       name: 'embed',
-      group: 'games',
+      group: 'embeds',
       memberName: 'embed',
       description: 'Embeds message'
     });
