@@ -6,7 +6,7 @@ Because of the firewall issue, the project is loaded on Repl.it. One good reason
 
   https://www.codementor.io/garethdwyer/building-a-discord-bot-with-python-and-repl-it-miblcwejz
 
-v0.0.1 realised normal and embed message-sending processes. Two nano games(roll dice & flip coin) are provided as well.
+v0.0.1 realised normal message-sending processes. Two nano games(roll dice & flip coin) are provided as well.
  1. Create a new Repl account, choose "Nodejs" as your language.
  2. Create a Discord Bot and log it in your Discord serve.
  3. Change the ```TOKEN``` in a file: ```.env``` (there is no space beside```=``` )
