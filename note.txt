@@ -1,0 +1,5 @@
+CLIENT ID
+
+https://discordapp.com/api/oauth2/authorize?client_id=CLIENT ID&scope=bot&permissions=0
+
+TOKEN
