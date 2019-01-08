@@ -20,4 +20,4 @@ v0.0.1 realised normal and embed message-sending processes. Two nano games(roll 
  
  
  
- In the next version, a python program will be connected for proving dynamic data from public websites. Meanwhile, a python version program will be developed which aims to embed in a Raspberry Pi to mobilised the server.
+ In the next version, a python program will be connected for proving dynamic data from public websites. Meanwhile, a python version program will be developed which aims to be embedded in a Raspberry Pi to mobilised the server.
