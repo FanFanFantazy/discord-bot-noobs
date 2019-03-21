@@ -8,6 +8,9 @@
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
     "discord.js": "^11.4.2",
     "discord.js-commando": "^0.10.0",
-    "winston": "^3.1.0"
+    "node-cmd": "^3.0.0",
+    "winston": "^3.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
   }
 }
